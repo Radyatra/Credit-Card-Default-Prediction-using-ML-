@@ -10,4 +10,6 @@ Models used:
 - Naïve Bayes
 - AdaBoost
 
+Libraries used includes Pandas, Numpy, Matplotlib, Scipy, Seaborn, SKLearn, and Phik.
+
 Dataset obtained from Google Cloud Platform (using BigQuery). Query is inside Jupyter notebook.
